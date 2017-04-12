@@ -12,7 +12,7 @@ For notes make [something like this](https://gist.github.com/bestsauce/11867d8e3
 
 # Labels
 
-Make two `Chapter x` issues, one with `Notes` and the other with `Exercises`. As you study along you may add the additional `help wanted` label to get some help (e.g. hint), or `question` if it's just a question (e.g. can anyone check if my solution is correct?).
+Make two `Chapter x` issues, one with the `Notes` label and the other with `Exercises` label. As you study along you may add the additional `help wanted` label to get some help (e.g. hint), or `question` if it's just a question (e.g. can anyone check if my solution is correct?), and remove them once you're done.
 
 # How to MathJax + Github
 
