@@ -4,6 +4,8 @@ All discussion happens in [the issues page](https://github.com/worstsauce/study/
 
 Happy studying! :)
 
+If you want to participate in this study group please leave a message in the [discussion thread]() so that I give you the necessary privelages so that you can add labels and similar stuff.
+
 # Making issues
 
 For notes make [something like this](https://gist.github.com/bestsauce/11867d8e3e84b981daede7c3a4739b87). For exercises [something like this](https://gist.github.com/bestsauce/8e1c73c8909c3cc00e77d657a21596c6) (I'll be updating them with each new chapter).
