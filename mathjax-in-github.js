@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name           Run MathJax inside Github
 // @namespace      https://www.mathjax.org/
+// @author         David Cervone
+// @version        0
 // @description    Runs MathJax on any page with Github.com
-// @include        http://github.com/*
-// @include        https://github.com/*
+// @match          *://*.github.com/*
+// @copyright
 // ==/UserScript==
 (function () {
 
