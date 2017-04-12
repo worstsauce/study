@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name           Run MathJax in Github
-// @namespace      http://www.mathjax.org/
-// @description    Runs MathJax on any page in github.com
+// @name           Run MathJax inside Github
+// @namespace      https://www.mathjax.org/
+// @description    Runs MathJax on any page with Github.com
 // @include        http://github.com/*
 // @include        https://github.com/*
 // ==/UserScript==
