@@ -5,9 +5,6 @@
 // @include        http://github.com/*
 // @include        https://github.com/*
 // ==/UserScript==
-
-/*****************************************************************/
-
 (function () {
 
   function LoadMathJax() {
