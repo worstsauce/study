@@ -12,7 +12,7 @@ For notes make [something like this](https://gist.github.com/bestsauce/11867d8e3
 
 # Labels
 
-Make two `Chapter x` issues, one with the `Notes` label and the other with `Exercises` label. As you study along you may add the additional `help wanted` label to get some help (e.g. hint), or `question` if it's just a question (e.g. can anyone check if my solution is correct?), and remove them once you're done. Don't forget to assign it for yourself and to set a milestone: ![](https://github.com/worstsauce/study/raw/master/screen.png)
+Make two `Chapter x` issues, one with the `Notes` label and the other with `Exercises` label. As you study along you may add the additional `help wanted` label to get some help (e.g. hint), or `question` if it's just a question (e.g. can anyone check if my solution is correct?), and remove them once you're done. Don't forget to assign it for yourself and to set a milestone: ![](https://raw.githubusercontent.com/worstsauce/study/c0cc1ad25a9d0660e08d4c37e669cc48f2a13fba/screen.png)
 
 # How to MathJax + Github
 
