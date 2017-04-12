@@ -14,6 +14,8 @@ For notes make [something like this](https://gist.github.com/bestsauce/11867d8e3
 
 Make two `Chapter x` issues, one with the `Notes` label and the other with `Exercises` label. As you study along you may add the additional `help wanted` label to get some help (e.g. hint), or `question` if it's just a question (e.g. can anyone check if my solution is correct?), and remove them once you're done.
 
+Don't forget to assign it for yourself and to set a milestone: ![](https://github.com/worstsauce/study/raw/master/screen.png)
+
 # How to MathJax + Github
 
 Install the [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/?src=ss) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extensions.
