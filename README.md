@@ -20,4 +20,6 @@ Install the [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/grease
 
 You need to add [this userscript](https://raw.githubusercontent.com/worstsauce/study/master/mathjax-in-github.js) which will load MathJax on Github. (Important: Due to some bug this shouldn't work unless you do the following: (for Firefox) go to `about:config`, click `I'll be careful, I promise!`, then search for `security.csp.enable` and set its value to `false`. Don't forget to set this value back to its default `true` when you no longer want to use MathJax with Github!)
 
-Then it should work as usual.
+Then it should work as usual. And here's some $\LaTeX$ to test: $\displaystyle\int_0^1 \dfrac{x^2}{x+1}\ \mathrm{d}x$.
+
+$$\boxed{\ \oint_{\partial \Sigma} \mathbf{E} \cdot \mathrm{d}\boldsymbol{\ell}  = - \overset{\color{white}{.}}{\frac{\mathrm{d}}{\mathrm{d}t}} \underset{\color{white}{.}}{\iint_\Sigma} \mathbf{B} \cdot \mathrm{d}\mathbf{S}\ }$$
