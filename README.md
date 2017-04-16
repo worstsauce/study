@@ -30,4 +30,4 @@ Then it should work as usual. And here's some $\LaTeX$ to test: $\displaystyle\i
 
 $$\boxed{\ \oint_{\partial \Sigma} \mathbf{E} \cdot \mathrm{d}\boldsymbol{\ell}  = - \overset{\color{white}{.}}{\frac{\mathrm{d}}{\mathrm{d}t}} \underset{\color{white}{.}}{\iint_\Sigma} \mathbf{B} \cdot \mathrm{d}\mathbf{S}\ }$$
 
-(Unfortunately, when moving between different pages the script stops working (one needs to reload the page), can anyone provide a fix for this? Or alternatively load pages in new tabs instead of staying in the same one.)
+(Firefox-only issue: Unfortunately, when moving between different pages the script stops working (one needs to reload the page), can anyone provide a fix for this? Or alternatively load pages in new tabs instead of staying in the same one.)
