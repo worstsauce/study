@@ -18,7 +18,7 @@ Make two `Chapter x` issues, one with the `Notes` label and the other with `Exer
 
 # How to MathJax + Github
 
-For Chrome users ![](http://forums.fedoraforum.org/images/useragent/icon_chrome.gif): You just need to install [this addon]().
+For Chrome users ![](http://forums.fedoraforum.org/images/useragent/icon_chrome.gif): You just need to install [the *GitHub with MathJax* addon](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima).
 
 For Firefox users ![](http://forums.fedoraforum.org/images/useragent/icon_firefox.gif):
 
