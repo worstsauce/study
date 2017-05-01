@@ -1,36 +1,9 @@
-Chapter 1: **Vector Spaces**
+# Solutions by @MaxisJaisi
 
-**1.A**
+## Chapter 1: **Vector Spaces**
 
-- [x] Exercise 1
-- [x] Exercise 2
-- [x] Exercise 3
-- [x] Exercise 4
-- [x] Exercise 5
-- [x] Exercise 6
-- [x] Exercise 7
-- [x] Exercise 8
-- [x] Exercise 9
-- [x] Exercise 10
-- [x] Exercise 11
-- [x] Exercise 12
-- [x] Exercise 13
-- [x] Exercise 14
-- [x] Exercise 15
-- [x] Exercise 16
 
-**Notes on 1.A**
-
-**1.B**
-
-- [x] Exercise 1
-- [x] Exercise 2
-- [x] Exercise 3
-- [x] Exercise 4
-- [x] Exercise 5
-- [x] Exercise 6
-
-**Notes on 1.B**
+### **Notes on 1.B**
 
 _Exercise 1_
 
@@ -68,34 +41,7 @@ The notorious extended real number line makes its appearance again. (=
 
 No, $\ \mathbf{R}$ $\cup$  {$\infty$} $ \cup$ {$-\infty$} isn't a vector space, because $t + \infty = \infty$ for every $t \in \mathbf{R}$ destroys uniqueness of additive identity. 
 
-**1.C**
-
-- [x] Exercise 1
-- [x] Exercise 2
-- [x] Exercise 3
-- [x] Exercise 4
-- [x] Exercise 5
-- [x] Exercise 6
-- [x] Exercise 7
-- [x] Exercise 8
-- [ ] Exercise 9
-- [x] Exercise 10
-- [x] Exercise 11
-- [x] Exercise 12
-- [ ] Exercise 13
-- [x] Exercise 14
-- [x] Exercise 15
-- [x] Exercise 16
-- [x] Exercise 17
-- [x] Exercise 18
-- [x] Exercise 19
-- [x] Exercise 20
-- [x] Exercise 21
-- [x] Exercise 22
-- [x] Exercise 23
-- [x] Exercise 24
-
-**Notes on 1.C**
+### **Notes on 1.C**
 
 _Exercise 7_
 
