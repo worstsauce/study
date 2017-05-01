@@ -1,6 +1,8 @@
-Chapter 1: **Vector Spaces** 
+# Notes by @MaxisJaisi
 
-- [x] $\mathbf{R}^n$ and $\mathbf{C}^n$
+## Chapter 1: **Vector Spaces** 
+
+### $\mathbf{R}^n$ and $\mathbf{C}^n$
 
 A **field**, normally denoted by $\mathbf{F}$, is a structure with a couple of operations defined on it. The first operation is normally called addition: $\bigoplus : \mathbf{F} \times \mathbf{F} \to \mathbf{F}$. The second is usually called multiplication: $\bigotimes : \mathbf{F} \times \mathbf{F} \to \mathbf{F}$. We are not done yet, as we need to impose further restrictions on the operations to create a field:
 
@@ -12,7 +14,7 @@ A **field**, normally denoted by $\mathbf{F}$, is a structure with a couple of o
 
 In Axler's book, fields are usually just $\mathbf{R}$ or $\mathbf{C}$, for concreteness. There are numerous consequences of the field properties which I'll take for granted. They can be found in many books.
 
-- [x] Definition of Vector Space
+### Definition of Vector Space
 
 A vector space $\mathsf{V}$ is a structure with the operations $+ : \mathbf{F} \times \mathbf{F} \to \mathbf{F}$ (addition), and $\bigotimes : \mathbf{F} \times \mathsf{V} \to \mathsf{V}$ (left scalar multiplication). Again, we need to impose further restrictions:
 
@@ -32,7 +34,7 @@ A vector space $\mathsf{V}$ is a structure with the operations $+ : \mathbf{F} \
 
 3. $\alpha \mathbf{x} = \mathbf{0} \implies \alpha = 0$ or $\mathbf{x} = \mathbf{0}$
 
-- [x] Subspaces
+### Subspaces
 
 **Subspaces**
 
