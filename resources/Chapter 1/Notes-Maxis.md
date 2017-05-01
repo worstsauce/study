@@ -58,7 +58,7 @@ Let $U_1$ and $U_2$ be subspaces of $V$. Construct the set $ W=  \{\ u_1 + u_2 \
 
 _Let $U_1$ and $U_2$ be subspaces of $V$. Then $W = U_1 + U_2$ is the smallest subspace containing $U_1$ and $U_2$._
 
-What does it mean to say that $A$ is the smallest set containing $U_1$ and $U_2$? It means that if you give me any set $X$ containing $U_1$ and $U_2$, the set \textbf{must} contain $A$.
+What does it mean to say that $A$ is the smallest set containing $U_1$ and $U_2$? It means that if you give me any set $X$ containing $U_1$ and $U_2$, the set **must** contain $A$.
 
 _Proof_: We first claim that $W$ contains $U_1$ and $U_2$. Indeed, every vector of the form $u_1 + 0$ and $0 + u_2$ are in $W$, and these vectors are just the vectors in $U_1$ and $U_2$.
 
@@ -66,7 +66,7 @@ Let $X$ be a subspace of $V$ containing $U_1$ and $U_2$. We must show that $X$ c
 
 **Direct Sums**
 
-If we impose the condition that every  $x \in W=U_1 + U_2$ can be written as the sum $u_1 + u_2$ in one way only, we get a new type of subspace, called the \textbf{direct sum} of $U_1$ and $U_2$. We write it as $W = U_1 \bigoplus U_2$
+If we impose the condition that every  $x \in W=U_1 + U_2$ can be written as the sum $u_1 + u_2$ in one way only, we get a new type of subspace, called the **direct sum** of $U_1$ and $U_2$. We write it as $W = U_1 \bigoplus U_2$
 
 
 **Theorem**: _$W = U_1 \bigoplus U_2$ if and only if $\mathbf{u_1} + \mathbf{u_2} = \mathbf{0}$ implies $\mathbf{u_1}=\mathbf{0}$ and $\mathbf{u_2} = \mathbf{0}$._
