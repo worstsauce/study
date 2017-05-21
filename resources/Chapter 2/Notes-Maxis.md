@@ -1,32 +1,25 @@
-\newpage
-\section{Span}
+Span
 
 Let $V$ be a vector space. Let $U$ be a subset of $V$. The \textbf{span} of $U$ is the smallest subspace which contains $U$. It is immediate from this definition that $\operatorname{span}(\emptyset) = \{0\}$. Furthermore, $\operatorname{span}(U)$ contains every possible linear combination of every list of vectors in $U$.
 
-\medskip
-\noindent
 Let $W$ be the set of all possible linear combinations of any list of vectors in $U$. It can be checked that $W$ is a subspace, and $W$ contains $U$. Any subspace which contains all possible linear combinations of any list of vectors in $U$ must also contain $W$. Thus $W$ is the smallest subspace containing $U$.
 
-\medskip
-\noindent
 We now have two equivalent definitions of the span of a set of vectors.
 
-\section{Linear Independence}
+Linear Independence
 
 Let $(v_1, v_2, \dots, v_m)$ be a list of vectors, and consider, $a_1 v_1 + \dots + a_m v_m$, where $a_1, \dots, a_m$ are arbitrary scalars. We further suppose that $a_1 = \dots = a_m = 0$ whenever $a_1 v_1 + \dots + a_m v_m = \mathbf{0}$. The list of vectors is said to be \textbf{linearly independent}. The representation of any vector by a linear combination of a linearly independent list of vectors must be unique.
 
-\medskip
-\noindent
+
 A \textbf{linearly dependent} list of vectors is one which is not linearly independent. 
 
-\subsection{Examples}
+Examples
 
-\begin{enumerate}
 \item A nonzero vector is linearly independent.
 \item Two vectors which are scalar multiples of each other are linearly dependent.
 \item Any list of vectors which includes $\mathbf{0}$ must be linearly dependent.
 \item Any list of vectors which contains at least one vector which is a linear combination of the others must be linearly dependent.
-\end{enumerate}
+
 
 \begin{theorem}[Linear Dependence Lemma]
 
