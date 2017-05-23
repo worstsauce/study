@@ -1,24 +1,24 @@
-Span
+# Span
 
-Let $V$ be a vector space. Let $U$ be a subset of $V$. The \textbf{span} of $U$ is the smallest subspace which contains $U$. It is immediate from this definition that $\operatorname{span}(\emptyset) = \{0\}$. Furthermore, $\operatorname{span}(U)$ contains every possible linear combination of every list of vectors in $U$.
+Let $V$ be a vector space. Let $U$ be a subset of $V$. The **span** of $U$ is the smallest subspace which contains $U$. It is immediate from this definition that $\operatorname{span}(\emptyset) = \{0\}$. Furthermore, $\operatorname{span}(U)$ contains every possible linear combination of every list of vectors in $U$.
 
 Let $W$ be the set of all possible linear combinations of any list of vectors in $U$. It can be checked that $W$ is a subspace, and $W$ contains $U$. Any subspace which contains all possible linear combinations of any list of vectors in $U$ must also contain $W$. Thus $W$ is the smallest subspace containing $U$.
 
 We now have two equivalent definitions of the span of a set of vectors.
 
-Linear Independence
+# Linear Independence
 
-Let $(v_1, v_2, \dots, v_m)$ be a list of vectors, and consider, $a_1 v_1 + \dots + a_m v_m$, where $a_1, \dots, a_m$ are arbitrary scalars. We further suppose that $a_1 = \dots = a_m = 0$ whenever $a_1 v_1 + \dots + a_m v_m = \mathbf{0}$. The list of vectors is said to be \textbf{linearly independent}. The representation of any vector by a linear combination of a linearly independent list of vectors must be unique.
+Let $(v_1, v_2, \dots, v_m)$ be a list of vectors, and consider, $a_1 v_1 + \dots + a_m v_m$, where $a_1, \dots, a_m$ are arbitrary scalars. We further suppose that $a_1 = \dots = a_m = 0$ whenever $a_1 v_1 + \dots + a_m v_m = \mathbf{0}$. The list of vectors is said to be **linearly independent**. The representation of any vector by a linear combination of a linearly independent list of vectors must be unique.
 
 
-A \textbf{linearly dependent} list of vectors is one which is not linearly independent. 
+A **linearly dependent** list of vectors is one which is not linearly independent. 
 
 Examples
 
-\item A nonzero vector is linearly independent.
-\item Two vectors which are scalar multiples of each other are linearly dependent.
-\item Any list of vectors which includes $\mathbf{0}$ must be linearly dependent.
-\item Any list of vectors which contains at least one vector which is a linear combination of the others must be linearly dependent.
+1. A nonzero vector is linearly independent.
+2. Two vectors which are scalar multiples of each other are linearly dependent.
+3. Any list of vectors which includes $\mathbf{0}$ must be linearly dependent.
+4. Any list of vectors which contains at least one vector which is a linear combination of the others must be linearly dependent.
 
 
 \begin{theorem}[Linear Dependence Lemma]
@@ -29,7 +29,6 @@ Let $v_1, \dots, v_m$ be linearly dependent. Then there exists a vector $v_i$ su
 \begin{proof}
 Since $v_1, \dots, v_m$ is linearly dependent, there exist scalars $a_1, \dots, a_m$, not all zero, such that $a_1 v_1 + \dots + a_m v_m = \mathbf{0}$. Let the last vector in the linear combination with a nonzero scalar coefficient be $v_i$. Then the proceeding vectors must have zero coefficients, so we can write $a_1 v_i + \dots + a_{i-1} v_{i-1} + a_i v_i = \mathbf{0}$. Then $v_i = \frac{a_1}{a_i} v_1 + \dots + \frac{a_{i-1}}{a_i} v_{i-1}$, which means that $v_i$ is a linear combination of the vectors $v_1, \dots, v_i$, or in other words, $v_i \in \operatorname{span}(v_1, \dots, v_{i-1})$.
 
-\medskip
 Next, we need to show that any vector in $\operatorname{span}(v_1, \dots, v_m)$ can be written as a linear combination of the list of vectors with $v_i$ removed. Indeed, given a vector $\mathbf{v} = a_1 v_1 + a_i v_i + \dots + v_m$, we can substitute the expression for $v_i$ obtained above and see that $\mathbf{v}$ is written as a linear combination of vectors in the list with $v_i$ absent. 
 \end{proof}
 
